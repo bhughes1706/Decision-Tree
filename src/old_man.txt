@@ -1,0 +1,115 @@
+You're in a room with yellow and red walls. The air smells of salt and lavender.
+Do you 1) Go outside 2) Search the room
+500
+4
+0
+Outside, the air swirls with neon clouds, the air crackles with thunder, and a mountain range is in the distance.
+Do you 1) Walk toward mountains 2) Go back inside, it's scary 
+498
+4
+0
+0
+You head back inside
+499
+2
+500
+There's a stovetop with a covered pot, and a closed wardrobe.
+Which do you open 1) the covered pot 2) the closed wardrobe
+750
+4
+0
+0
+You've been bitten by an orange lobster with three heads. 
+620
+1
+750
+Inside the wardrobe you find a skull. You put it in your large pocket.
+Do you 1) Inspect skull 2) Inspect room further
+870
+5
+500
+The skull looks old, something seems to be glowing inside. 
+Do you 1) Go outside 2) Inspect Room
+800
+4
+0
+0
+You go outside
+770
+2
+498
+0
+You look around
+820
+2
+900
+There's nothing but a stale smell and now empty wardrobe. There's also a locked cellar.
+Do you 1) Go outside 2) Go back to sleep
+900
+4
+0
+0
+You go outside
+880
+2
+498
+While you slept in your dream, the ghosts search through your soul.
+0
+910
+3
+0
+The mountains are very far away. Your legs are tired.
+Do you 1) Call out for the young boy 2) Search the nearby tree
+5
+4
+0
+0
+You attract a ghost that steals a part of your soul. The boy doesn't respond.
+3
+1
+5
+The tree creaks in the wind. The wood appears mostly dead. A small carved key lies at the base. You take it.
+Do you 1) Inspect the key 2) Keep walking
+450
+5
+500
+The key has inscriptions on it. They make your eyes swim. 
+Do you 1) Keep walking, even tired 2) Go back to the house
+10
+4
+0
+0
+Roots attack your legs as you walk, the sky darkens.
+7
+1
+10
+Inside the house things look the same.
+Do you 1) Lie down in the bed 2) Inspect the cellar
+100
+4
+0
+While you slept in your dream, the ghosts search through your soul.
+0
+90
+3
+0
+The cellar door stands locked. It shimmers in front of your eyes.
+Do you 1) Unlock the door 2) Try to look underneath the door
+300
+4
+0
+0
+Roots attack your legs as you walk, the sky darkens.
+460
+1
+450
+0
+A gnarled hand reaches out and touches your soul.
+301
+1
+300
+The young boy waits behind a ghost with black eyes. You hold out the skull and the dream disintegrates. You wake up with a burst. The boy sleeps soundly.
+The boy huddles behind a ghost. You have nothing to protect you. The ghost swims around you.
+200
+6
+0

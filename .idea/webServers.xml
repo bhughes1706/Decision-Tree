@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="50e5abaa-a586-42fd-863c-123b94b58aac" name="HW4" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/Desktop/CS/202/HW4/Git" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

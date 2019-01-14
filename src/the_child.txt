@@ -1,0 +1,115 @@
+You're in a field of visceral roots hanging from infinity. A house is in the distance. 
+You can 1) Walk toward the house 2) Eat the roots
+500
+4
+0
+The roots taste bad and colors vibrate in your eyes. The scene swirls in front of you.
+You can 1) Lie down and close your eyes 2) Reach into the swirling color
+800
+4
+0
+While you slept in your dream, the ghosts search through your soul.
+0
+770
+3
+0
+Inside the vision you see a book and a glittering key.
+Do you 1) Take the key 2) Take the book.
+870
+4
+0
+0
+The key turns into a snake and bites your hand.
+820
+1
+870
+The book floats toward you and you take it.
+Do you 1) Inspect the dreamscape 2) Inspect the book
+880
+5
+500
+The book looks old, the text isn't English, but you can read it. 
+Do you 1) Inspect the dreamscape 2) Read book
+900
+4
+0
+0
+You look up.
+875
+2
+500
+0
+You walk toward house
+890
+2
+498
+A skull appears in front of you when you read. You take the skull.
+Do you 1) Inspect the dreamscape 2) Inspect the skull
+940
+5
+500
+0
+You look up
+905
+2
+500
+The skull looks old, something seems to be glowing inside.
+Do you 1) Walk toward the house 2) Go to sleep in the roots
+960
+4
+0
+While you slept in your dream, the ghosts search through your soul.
+0
+970
+3
+0
+0
+You walk toward the house
+954
+2
+498
+The house is rundown. There's a cellar door in the rear, it opens easily.
+Do you 1) Go in the cellar 2) Go back toward the roots
+498
+4
+0
+The door is heavy, but it opens to a dark rotten basement.
+Do you 1) Listen to the empty black 2) Turn the light on
+5
+4
+0
+0
+The blackness begins to suffocate you.
+3
+1
+5
+0
+You walk back.
+499
+2
+500
+A single bulb burns above you. Something shifts in the corner, something black.
+Do you 1) Go back toward the roots 2) Stay and wait
+450
+4
+0
+0
+You walk back.
+7
+2
+500
+A ghost looks at you with black eyes. It moves toward you slowly.
+Do you 1) Close your eyes 2) Stand your ground
+475
+4
+0
+0
+The ghost searches through your soul.
+0
+460
+3
+You hold your skull and just then the door in front of you opens. The old man is there with another skull. The ghost disintegrates.
+There's nothing to protect you, maybe you should have searched for more items.
+480
+6
+0
