@@ -25,9 +25,9 @@ public class main {
           break;
       }
 
-      //ONLY FOR TESTING DELETE, COPY CONSTRUCTOR, AND DISPLAY ALL
+      /*ONLY FOR TESTING DELETE, COPY CONSTRUCTOR, AND DISPLAY ALL
       if(test_menu(user) > 0)
-        System.exit(1); //THIS IS ONLY FOR TESTING
+        System.exit(1); //THIS IS ONLY FOR TESTING */
 
       System.out.print("\n\nHello " + name + ", you have life of ");
       user.display_health(); //displays character health (depends on character)
@@ -56,7 +56,7 @@ public class main {
     catch (IOException | NullPointerException err) {
       err.printStackTrace();
     }
-    test_stack(user);
+    //test_stack(user);
   }
 
   //Welcomes user, lets them choose a character, with error checking (old man is given if user enters letter)
